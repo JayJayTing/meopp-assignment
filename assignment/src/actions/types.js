@@ -1,0 +1,2 @@
+export const GET_TIMELINE_USER_ID = 'GET_TIMELINE_USER_ID';
+export const GET_USER_PIC = 'GET_USER_PIC';
